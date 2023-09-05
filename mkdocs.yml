@@ -1,0 +1,21 @@
+site_name: Aplicação de Redes de Computadores
+site_author: João Lucas
+theme:
+  name: material
+  language: pt
+
+repo_name: lucasjoao03/apr-2023-2
+repo_url: https://lucasjoao03.github.io/apr-2023-2/
+edit_uri: edit/main/docs/
+
+nav: 
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
+
+- esnsaios:
+  - ensaios/mermaid.md
+
+plugins: 
+- mermaid2
