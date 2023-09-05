@@ -1,0 +1,5 @@
+# Tesoura
+
+```
+print('olá mundo')
+```
